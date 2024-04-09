@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from flask import Flask, request, make_response
 from flask_marshmallow import Marshmallow
 from flask_migrate import Migrate
